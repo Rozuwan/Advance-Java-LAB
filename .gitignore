@@ -1,0 +1,18 @@
+*.class
+
+# IntelliJ
+.idea/
+*.iml
+
+# Eclipse
+.bin/
+bin/
+.classpath
+.project
+.settings/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
