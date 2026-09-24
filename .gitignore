@@ -16,3 +16,7 @@ bin/
 
 # macOS
 .DS_Store
+
+# Documents
+*.docx
+*.pdf
